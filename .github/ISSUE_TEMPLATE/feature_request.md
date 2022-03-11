@@ -1,25 +1,20 @@
 ---
-name: 機能追加
+name: Feature request
 about: Suggest an idea for this project
-title: "[機能追加]"
+title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**目的**
-機能追加の理由や目的などを入れる
-ユーザ資産情報の把握しやすさの向上のため
+**Is your feature request related to a problem? Please describe.**
+A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**やりたいこと**
-この機能を実現して何がやりたいのかの説明を入れる
-* 現時点までの収入状態の一覧化
-* 現時点までの支出状態の一覧化
+**Describe the solution you'd like**
+A clear and concise description of what you want to happen.
 
-**代替案など**
-欲しい機能を代替する提案があれば記載する
-* 収入・支出での税金額表示機能
+**Describe alternatives you've considered**
+A clear and concise description of any alternative solutions or features you've considered.
 
-
-**参考資料(あれば)**
-追加したい情報等あれば記載
+**Additional context**
+Add any other context or screenshots about the feature request here.
